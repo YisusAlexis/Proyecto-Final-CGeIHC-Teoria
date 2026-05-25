@@ -51,7 +51,6 @@ Para interactuar con el entorno y explorar la escena, utiliza los siguientes com
 | :--- | :--- |
 | `L` | Alternar encendido/apagado de las luces generales de la escena |
 | `F` | Activar/desactivar linterna (Spotlight) acoplada a la cámara/vehículo |
-| `Espacio` | Disparar simulación física / Lanzamiento de la catapulta |
 | `1`, `2`, `3` | Cambiar entre los diferentes modos de cámara disponibles |
 
 *(Nota: Los controles de animación de vehículos como el helicóptero adaptan automáticamente sus luces frontales y traseras según la dirección de la marcha).*
@@ -78,12 +77,10 @@ Para ejecutar este proyecto de forma local en **Visual Studio Community**, sigue
 
 ---
 
-## 👥 Colaboradores
+## 👥 Desarrollado por
 
 Este proyecto fue desarrollado en equipo para la materia de Computación Gráfica:
 
-* **Miembro 1** - *Desarrollo de Shaders, Sistema de Iluminación y Cámaras.*
-* **Miembro 2** - *Lógica de Físicas, Animación Jerárquica y Carga de Modelos.*
-* **Miembro 3** - *Diseño de Escenario, Modelado 3D (Blender) y Texturizado (GIMP).*
+* **Alexis Perez** 
 
 ---
