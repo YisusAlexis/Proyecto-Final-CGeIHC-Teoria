@@ -1,4 +1,14 @@
-﻿
+
+//----------------------------------------------------------------------|
+//FACULTAD DE INGENIERIA UNAM
+//COMPUTACION GRAFICA E INTERACCION HUMANO COMPUTADORA - Teoria
+//2026-2
+//PROYECTO FINAL
+//25-mayo-2026
+//PROFESOR: José Roque Román Guadarrama
+//INTEGRANTES:
+//------------Pérez León Jesús Alexis
+//----------------------------------------------------------------------|
 #define STB_IMAGE_IMPLEMENTATION
 #include <stdio.h>
 #include <string.h>
