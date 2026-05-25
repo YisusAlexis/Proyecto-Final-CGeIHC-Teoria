@@ -79,8 +79,6 @@ Para ejecutar este proyecto de forma local en **Visual Studio Community**, sigue
 
 ## 👥 Desarrollado por
 
-Este proyecto fue desarrollado en equipo para la materia de Computación Gráfica:
-
 * **Alexis Perez** 
 
 ---
