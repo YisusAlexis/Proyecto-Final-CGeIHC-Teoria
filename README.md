@@ -8,9 +8,9 @@
 
 > 📢 **¡ATENCIÓN!** Debido al tamaño y peso de los archivos de geometría y mapas de bits, los modelos 3D (archivos `.obj`) y sus respectivas texturas **no se encuentran incluidos directamente en este repositorio** para mantenerlo ligero.
 >
-> Para poder compilar y visualizar la escena correctamente, debes descargar los recursos desde el siguiente enlace de Google Drive y colocarlos dentro de la carpeta correspondiente del proyecto (ej. `assets/` o `models/`):
+> Para poder compilar y visualizar la escena correctamente, debes descargar los recursos desde el siguiente enlace de Google Drive y colocarlos dentro de la carpeta correspondiente del proyecto:
 >
-> 🔗 **Enlace de descarga en Google Drive:** [PEGA_AQUÍ_TU_LIGA_DE_DRIVE]
+> 🔗 **Enlace de descarga en Google Drive:** https://drive.google.com/drive/folders/1GDufUpUDNczp2uQFdazbSCyiyA8Yz-9e?usp=drive_link
 
 ---
 
